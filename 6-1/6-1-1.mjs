@@ -11,3 +11,4 @@ const testObject = {
     str1: "C"
     }
     }
+    console.log(testObject)
