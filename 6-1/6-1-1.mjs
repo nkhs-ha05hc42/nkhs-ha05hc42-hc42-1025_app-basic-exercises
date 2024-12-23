@@ -7,8 +7,8 @@ const testObject = {
     test1: null,
     test2: undefined,
     nestObject: {
-    num1: 123,
-    str1: "C"
-    }
+             num1: 123,
+             str1: "C",
+        }
     }
     console.log(testObject)
