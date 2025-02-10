@@ -29,3 +29,11 @@ const putSample1 = (req, res) => {
     }),
     )
    }
+
+   export const sample1Controller = {
+    postSample1,
+    getSample1,
+    putSample1,
+    deleteSample1,
+    getPathParamSample1
+   }
